@@ -14,6 +14,8 @@ Option 1: Open cmd, run 'java PawnChessGUI'
 
 Option 2: Double-click PawnChess.jar
 
+Choose the difficulty, and you're good to go :)
+
 ## Future Update
 - Option to restart the game
 - Custom board size
